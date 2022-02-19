@@ -33,7 +33,7 @@ print("Square root of the number:",newton_method(b))
 
 ## Output:
 
-![git log](v1.png
+![git log](v1.png)
 
 
 ## Result:
