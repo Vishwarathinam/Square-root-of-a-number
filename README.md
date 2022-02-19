@@ -32,11 +32,8 @@ print("Square root of the number:",newton_method(b))
 ```
 
 ## Output:
-<<<<<<< HEAD
-![git log](v1.png)
-=======
-![git log](vs1.png)
->>>>>>> 8ff7eee2aab7c1b7b51fcbdfff5f80dc38b077a1
+
+![git log](v1.png
 
 
 ## Result:
