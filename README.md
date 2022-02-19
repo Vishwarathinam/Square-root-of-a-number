@@ -32,7 +32,7 @@ print("Square root of the number:",newton_method(b))
 ```
 
 ## Output:
-![gcd of two number](squareroot.png)
+![git log](vs1.png)
 
 
 ## Result:
